@@ -11,3 +11,7 @@ Eventually, I discontinued the email and website updates, while the Telegram cha
 For technical topics and educational content,
 I use GitHub as the primary platform. 
 I deploy the generated content in HTML format to make it accessible and structured for the audience.
+
+- [Telegram Channel](https://t.me/dumannewsletter)
+- [Technical Article in Persian](https://duman.pouyae.ir/)
+- [Archived Persian Website]()
