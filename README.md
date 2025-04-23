@@ -12,6 +12,8 @@ For technical topics and educational content,
 I use GitHub as the primary platform. 
 I deploy the generated content in HTML format to make it accessible and structured for the audience.
 
+At the moment all the contents are in Persian.
+
 - [Telegram Channel](https://t.me/dumannewsletter)
-- [Technical Article in Persian](https://duman.pouyae.ir/)
-- [Archived Persian Website]()
+- [Technical Articles](https://duman.pouyae.ir/)
+- [Archived Website]()
