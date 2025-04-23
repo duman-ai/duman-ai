@@ -15,5 +15,5 @@ I deploy the generated content in HTML format to make it accessible and structur
 At the moment all the contents are in Persian.
 
 - [Telegram Channel](https://t.me/dumannewsletter)
-- [Technical Articles](https://duman.pouyae.ir/)
-- [Archived Website]()
+- [Technical Articles]()
+- [Archived Website](https://duman.pouyae.ir/)
